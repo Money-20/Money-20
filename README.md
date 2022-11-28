@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋, My name is Manikanta
+#### I am a Web Developer and an active Open Source Contributor.
+![I am a Web Developer and an active Open Source Contributor.](https://github.com/Money-20/Money-20/blob/main/Black%20Technology%20LinkedIn%20Banner.png?raw=true)
 
-<!--
-**Money-20/Money-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A web developer who is particularly interested in Backend. I spend most of my time learning/working with Node, Django, and Express JS, contributing to open source projects, and mostly listening to Rock Music of 80's, 90's.
 
-Here are some ideas to get you started:
+Skills: NODE JS /EXPRESS JS /REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Musicmaina(a music collab app using Django) 
+- 🌱 I’m currently learning Node JS, React 
+- 👯 I’m looking to collaborate on Django, JS 
+- 🤔 I’m looking for help with Open Source 
+- 💬 Ask me about web dev, Django(python), Node JS 
+- 📫 How to reach me: manikantaanumalla@gmail.com 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I am into playing chess 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Money-20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/money20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manikanta-a-b10413201/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Daa-Vinci__)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://money-20.github.io/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Money-20&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Money-20)  
+
+
