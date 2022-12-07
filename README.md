@@ -5,7 +5,7 @@
 
 A web developer who is particularly interested in Backend. I spend most of my time learning/working with Node, Django, and Express JS, contributing to open source projects, and mostly listening to Rock Music of 80's, 90's.
 
-Skills: NODE JS /EXPRESS JS /REACT / JS / HTML / CSS
+Skills: NODE JS /EXPRESS JS / JS / HTML / CSS
 
 - 🔭 I’m currently working on Musicmaina(a music collab app using Django) 
 - 🌱 I’m currently learning Node JS, React 
