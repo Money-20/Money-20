@@ -3,7 +3,7 @@
 <!-- ![I am a Web Developer and an active Open Source Contributor.](https://github.com/Money-20/Money-20/blob/main/Black%20Technology%20LinkedIn%20Banner.png?raw=true) -->
 [![@money_20's Holopin board](https://holopin.me/money_20)](https://holopin.io/@money_20)
 
-A web developer who is particularly interested in Backend. I spend most of my time learning/working with Node, Django, and Express JS, contributing to open source projects, and mostly listening to Rock Music of 80's, 90's.
+Programmer tinkering with node js, typescript, and go.
 
 Skills: NODE JS /EXPRESS JS / JS / HTML / CSS
 
