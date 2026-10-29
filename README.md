@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Manikanta
-#### I am a Web Developer and an active Open Source Contributor.
+#### I am an Open Source Contributer and Computer Science Research Student.
 <!-- ![I am a Web Developer and an active Open Source Contributor.](https://github.com/Money-20/Money-20/blob/main/Black%20Technology%20LinkedIn%20Banner.png?raw=true) -->
 [![@money_20's Holopin board](https://holopin.me/money_20)](https://holopin.io/@money_20)
 
